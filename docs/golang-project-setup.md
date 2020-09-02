@@ -7,5 +7,5 @@
 1, Create new project using go mod by following command
 
 ```sh
-    go mod init gitlab.com/accubits/mapclub_multitenancy_admin
+    go mod init github.com/rahulshibu/go-echo-boilerplate
 ```

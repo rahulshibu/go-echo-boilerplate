@@ -5,8 +5,8 @@ import (
 	"fmt"
 	"time"
 
-	"gitlab.com/accubits/mapclub_multitenancy_admin/internal/configs"
-	"gitlab.com/accubits/mapclub_multitenancy_admin/internal/database"
+	"github.com/rahulshibu/go-echo-boilerplate/internal/configs"
+	"github.com/rahulshibu/go-echo-boilerplate/internal/database"
 	"golang.org/x/crypto/bcrypt"
 
 	"github.com/dgrijalva/jwt-go"

@@ -6,8 +6,8 @@ import (
 	"github.com/labstack/echo"
 	log "github.com/sirupsen/logrus"
 
-	"gitlab.com/accubits/mapclub_multitenancy_admin/internal/models"
-	"gitlab.com/accubits/mapclub_multitenancy_admin/session"
+	"github.com/rahulshibu/go-echo-boilerplate/internal/models"
+	"github.com/rahulshibu/go-echo-boilerplate/session"
 )
 
 type authHandler struct{}

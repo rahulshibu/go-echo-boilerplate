@@ -5,7 +5,7 @@ import (
 
 	"github.com/jinzhu/gorm"
 	_ "github.com/jinzhu/gorm/dialects/mysql" //You could import dialect
-	"gitlab.com/accubits/mapclub_multitenancy_admin/internal/configs"
+	"github.com/rahulshibu/go-echo-boilerplate/internal/configs"
 
 	log "github.com/sirupsen/logrus"
 )

@@ -7,8 +7,8 @@ import (
 	"golang.org/x/crypto/bcrypt"
 
 	"github.com/labstack/echo"
-	"gitlab.com/accubits/mapclub_multitenancy_admin/internal/models"
-	"gitlab.com/accubits/mapclub_multitenancy_admin/session"
+	"github.com/rahulshibu/go-echo-boilerplate/internal/models"
+	"github.com/rahulshibu/go-echo-boilerplate/session"
 
 	"github.com/asaskevich/govalidator"
 )

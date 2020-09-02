@@ -8,7 +8,7 @@ import (
 
 	"github.com/dgrijalva/jwt-go"
 	"github.com/labstack/echo"
-	"gitlab.com/accubits/mapclub_multitenancy_admin/internal/configs"
+	"github.com/rahulshibu/go-echo-boilerplate/internal/configs"
 )
 
 var whitelist = [][2]string{

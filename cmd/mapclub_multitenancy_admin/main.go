@@ -1,10 +1,10 @@
 package main
 
 import (
-	"gitlab.com/accubits/mapclub_multitenancy_admin/internal/configs"
-	"gitlab.com/accubits/mapclub_multitenancy_admin/internal/controllers"
-	"gitlab.com/accubits/mapclub_multitenancy_admin/internal/database"
-	midw "gitlab.com/accubits/mapclub_multitenancy_admin/internal/middleware"
+	"github.com/rahulshibu/go-echo-boilerplate/internal/configs"
+	"github.com/rahulshibu/go-echo-boilerplate/internal/controllers"
+	"github.com/rahulshibu/go-echo-boilerplate/internal/database"
+	midw "github.com/rahulshibu/go-echo-boilerplate/internal/middleware"
 
 	"github.com/labstack/echo"
 	log "github.com/sirupsen/logrus"
