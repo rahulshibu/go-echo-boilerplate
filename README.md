@@ -5,7 +5,7 @@
 1, Clone in local
 
 ```sh
-    git clone git@gitlab.com:accubits/mapclub_multitenancy_admin.git
+    git clone github.com/rahulshibu/go-echo-boilerplate
 ```
 
 2, Verify Go Mod
