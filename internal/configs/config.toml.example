@@ -1,0 +1,14 @@
+name="Map Admin Panel"
+
+[database]
+user="ZUxwYBRPj2" 
+password="rFQlnxZlom" 
+host="remotemysql.com" 
+port="3306" 
+name="ZUxwYBRPj2"
+
+[server]
+host="0.0.0.0"
+port="8080"
+
+environment="Development"
