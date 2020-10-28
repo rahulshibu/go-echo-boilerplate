@@ -1,4 +1,4 @@
-# MapClub Admin Backend 
+# Go Boilder Plate
 
 ### Setting Up On Local
 
